@@ -1,0 +1,101 @@
+FeedbackID,InternID,Date,Source,Department,FeedbackText,TrueSentiment
+1,1048,2023-11-11,Social Media,Marketing,"Amazing internship, boosted my confidence..",Positive
+2,1073,2024-02-05,Survey,Marketing,Great experience! Learned so much. not bad,Positive
+3,1028,2024-10-16,Survey,HR,Projects were confusing and unclear. great,Negative
+4,1009,2023-09-01,Social Media,Engineering,"Loved working on the projects, very engaging. not bad",Positive
+5,1085,2024-10-16,Social Media,HR,Great experience! Learned so much. not bad,Positive
+6,1031,2023-03-11,Social Media,Engineering,"Loved working on the projects, very engaging..",Positive
+7,1049,2024-03-24,Platform Comment,Marketing,Great experience! Learned so much.,Positive
+8,1044,2024-07-13,Platform Comment,Data Science,The tasks were manageable. ,Neutral
+9,1097,2023-08-19,Email,HR,Nothing special but okay overall. not bad,Neutral
+10,1002,2023-11-23,Social Media,Data Science,Great experience! Learned so much.!,Positive
+11,1048,2023-06-14,Survey,Finance,"Loved working on the projects, very engaging..",Positive
+12,1078,2024-05-09,Survey,HR,"Loved working on the projects, very engaging. great",Positive
+13,1055,2023-06-10,Survey,Data Science,Didn’t get proper guidance. great,Negative
+14,1052,2024-07-21,Social Media,Design,Learned some things but could be improved..,Neutral
+15,1012,2023-02-20,Platform Comment,Finance,Average communication overall..,Neutral
+16,1006,2024-01-05,Survey,HR,"Poor experience, not satisfied..",Negative
+17,1080,2024-09-06,Platform Comment,Marketing,"Loved working on the projects, very engaging. not bad",Positive
+18,1021,2024-10-15,Social Media,Data Science,Great experience! Learned so much..,Positive
+19,1100,2024-02-12,Platform Comment,HR,It was an okay experience.!,Neutral
+20,1082,2024-07-11,Platform Comment,Marketing,Projects were confusing and unclear.,Negative
+21,1023,2024-04-01,Survey,Engineering,The tasks were manageable.!,Neutral
+22,1028,2023-10-03,Survey,Marketing,The tasks were manageable.!,Neutral
+23,1085,2023-12-19,Platform Comment,Finance,Too much delay in mentor response.,Negative
+24,1049,2024-06-19,Platform Comment,Finance,"Amazing internship, boosted my confidence.",Positive
+25,1030,2024-05-02,Social Media,Data Science,"Poor experience, not satisfied. great",Negative
+26,1073,2024-06-13,Email,Data Science,It was an okay experience. great,Neutral
+27,1027,2023-07-17,Email,Data Science,Learned some things but could be improved..,Neutral
+28,1055,2023-07-26,Email,Finance,It was an okay experience. not bad,Neutral
+29,1008,2023-03-31,Platform Comment,Finance,Average communication overall. not bad,Neutral
+30,1035,2024-06-16,Platform Comment,Data Science,Nothing special but okay overall.!,Neutral
+31,1066,2024-03-05,Survey,HR,The tasks were too repetitive and boring. great,Negative
+32,1075,2024-08-19,Survey,Data Science,The mentor was very helpful and supportive. great,Positive
+33,1068,2023-12-19,Platform Comment,Engineering,Too much delay in mentor response.!,Negative
+34,1077,2024-04-29,Survey,Marketing,The tasks were manageable. great,Neutral
+35,1079,2024-09-15,Platform Comment,Data Science,The tasks were manageable..,Neutral
+36,1030,2023-02-20,Platform Comment,Engineering,Average communication overall. not bad,Neutral
+37,1038,2023-11-15,Social Media,HR,It was an okay experience.!,Neutral
+38,1017,2023-11-04,Platform Comment,Engineering,Too much delay in mentor response..,Negative
+39,1082,2023-04-02,Email,HR,The tasks were manageable. great,Neutral
+40,1062,2024-06-12,Social Media,Data Science,Good communication and team coordination. not bad,Positive
+41,1039,2024-06-02,Platform Comment,Marketing,Didn’t get proper guidance.,Negative
+42,1022,2023-07-17,Email,Data Science,The tasks were too repetitive and boring.,Negative
+43,1006,2024-01-05,Email,Engineering,Great experience! Learned so much. ,Positive
+44,1050,2024-10-12,Survey,Design,The tasks were manageable. great,Neutral
+45,1062,2024-08-31,Platform Comment,Marketing,The mentor was very helpful and supportive.!,Positive
+46,1044,2023-12-19,Email,Engineering,Nothing special but okay overall. great,Neutral
+47,1003,2024-01-31,Survey,Marketing,Too much delay in mentor response.!,Negative
+48,1082,2023-08-19,Email,Engineering,Didn’t get proper guidance..,Negative
+49,1002,2024-11-29,Survey,HR,"Poor experience, not satisfied. great",Negative
+50,1001,2023-08-18,Social Media,Finance,The mentor was very helpful and supportive. great,Positive
+51,1048,2023-12-24,Platform Comment,Engineering,Average communication overall. ,Neutral
+52,1086,2024-06-17,Platform Comment,Finance,Good communication and team coordination.!,Positive
+53,1084,2024-01-19,Social Media,Engineering,Great experience! Learned so much. great,Positive
+54,1008,2023-12-11,Social Media,Design,Too much delay in mentor response. ,Negative
+55,1083,2024-10-29,Social Media,Marketing,Average communication overall.!,Neutral
+56,1007,2024-09-06,Platform Comment,Design,"Amazing internship, boosted my confidence..",Positive
+57,1003,2024-11-02,Platform Comment,Engineering,Learned some things but could be improved. not bad,Neutral
+58,1049,2023-02-06,Email,Engineering,The tasks were manageable. ,Neutral
+59,1068,2024-10-15,Platform Comment,Design,Didn’t get proper guidance. not bad,Negative
+60,1021,2024-11-04,Email,Engineering,Nothing special but okay overall.!,Neutral
+61,1094,2023-09-22,Email,Design,Good communication and team coordination..,Positive
+62,1045,2023-08-17,Social Media,HR,It was an okay experience..,Neutral
+63,1074,2023-10-29,Platform Comment,Data Science,Average communication overall.!,Neutral
+64,1074,2024-08-17,Survey,HR,It was an okay experience. not bad,Neutral
+65,1087,2024-01-26,Social Media,HR,"Amazing internship, boosted my confidence.",Positive
+66,1025,2023-12-17,Platform Comment,Finance,The mentor was very helpful and supportive..,Positive
+67,1091,2023-07-04,Survey,HR,Learned some things but could be improved.!,Neutral
+68,1081,2023-03-01,Survey,HR,Learned some things but could be improved.!,Neutral
+69,1073,2023-06-12,Platform Comment,Data Science,Learned some things but could be improved..,Neutral
+70,1081,2024-03-15,Platform Comment,HR,"Amazing internship, boosted my confidence. ",Positive
+71,1004,2024-06-30,Email,Design,The tasks were manageable.,Neutral
+72,1096,2024-06-27,Email,Data Science,It was an okay experience.!,Neutral
+73,1093,2023-09-12,Email,Design,Too much delay in mentor response. not bad,Negative
+74,1013,2024-01-28,Social Media,Marketing,Average communication overall..,Neutral
+75,1037,2024-04-11,Social Media,HR,Great experience! Learned so much.!,Positive
+76,1062,2024-01-03,Email,Marketing,Didn’t get proper guidance.!,Negative
+77,1028,2023-05-15,Email,Design,It was an okay experience..,Neutral
+78,1021,2023-05-07,Social Media,Design,"Amazing internship, boosted my confidence. great",Positive
+79,1081,2023-09-19,Survey,Finance,Too much delay in mentor response. ,Negative
+80,1002,2023-02-19,Survey,HR,Great experience! Learned so much. not bad,Positive
+81,1070,2023-09-16,Platform Comment,Design,The tasks were manageable.,Neutral
+82,1087,2024-10-07,Survey,Engineering,The mentor was very helpful and supportive. not bad,Positive
+83,1066,2023-10-04,Email,HR,It was an okay experience. not bad,Neutral
+84,1079,2023-05-01,Social Media,Data Science,"Amazing internship, boosted my confidence. not bad",Positive
+85,1077,2023-07-24,Social Media,Finance,Good communication and team coordination..,Positive
+86,1052,2023-10-30,Email,Data Science,"Loved working on the projects, very engaging. not bad",Positive
+87,1088,2024-05-07,Social Media,Marketing,"Poor experience, not satisfied..",Negative
+88,1011,2023-04-24,Platform Comment,Marketing,Great experience! Learned so much. not bad,Positive
+89,1092,2023-04-14,Social Media,Design,"Amazing internship, boosted my confidence.",Positive
+90,1033,2024-04-20,Survey,Data Science,Good communication and team coordination.!,Positive
+91,1046,2024-11-24,Social Media,HR,Great experience! Learned so much.!,Positive
+92,1097,2023-02-16,Survey,Marketing,Too much delay in mentor response.,Negative
+93,1045,2024-03-24,Social Media,Design,Didn’t get proper guidance.!,Negative
+94,1023,2023-04-27,Platform Comment,HR,"Loved working on the projects, very engaging.!",Positive
+95,1088,2024-05-04,Platform Comment,Design,Average communication overall. ,Neutral
+96,1089,2023-03-02,Email,Data Science,Great experience! Learned so much..,Positive
+97,1072,2024-11-25,Platform Comment,Marketing,Nothing special but okay overall. ,Neutral
+98,1078,2023-01-30,Email,HR,"Poor experience, not satisfied.!",Negative
+99,1056,2023-02-17,Survey,Engineering,It was an okay experience. ,Neutral
+100,1090,2024-11-25,Email,Design,Projects were confusing and unclear.,Negative
